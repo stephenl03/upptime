@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/http-stat.us.ico",
     "slug": "http-stat-us",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 199,
-    "timeDay": 148,
-    "timeWeek": 192,
-    "timeMonth": 205,
-    "timeYear": 199,
+    "uptimeYear": "99.90%",
+    "time": 201,
+    "timeDay": 267,
+    "timeWeek": 204,
+    "timeMonth": 207,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2026-07-15": 51
     }
