@@ -1,7 +1,7 @@
 url: https://http-stat.us/healthz
-status: up
-code: 200
-responseTime: 177
-lastUpdated: 2026-10-04T02:24:44.233Z
+status: down
+code: 530
+responseTime: 76
+lastUpdated: 2026-10-04T18:14:38.264Z
 startTime: 2026-07-14T20:39:43.003Z
 generator: Upptime <https://github.com/upptime/upptime>
