@@ -4,19 +4,20 @@
     "url": "https://http-stat.us/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/http-stat.us.ico",
     "slug": "http-stat-us",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.79%",
     "time": 216,
-    "timeDay": 127,
+    "timeDay": 143,
     "timeWeek": 174,
-    "timeMonth": 246,
+    "timeMonth": 243,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-07-15": 51
+      "2026-07-15": 51,
+      "2026-10-04": 198
     }
   }
 ]
